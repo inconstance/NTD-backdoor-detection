@@ -11,8 +11,6 @@ If you find it is useful and used for publication. Please kindly cite our work a
 >   year={2023},
 >   publisher={IEEE}
 > }
->
-
 > ```
 
 ## Required environment
